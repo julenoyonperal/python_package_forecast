@@ -1,0 +1,3 @@
+[console_scripts]
+run_tsfresh = tsfresh.scripts.run_tsfresh:main
+
