@@ -4,30 +4,21 @@ statsmodels
 pykalman
 Pmdarima
 Statsforecast
-
-
-
+dart
+sktime
+TSFresh
+AutoTS
+skforecast
 
 
 no_installed
 
 xgboost - issue with size 
+pycarte - issue with the size
 
-dart
-sktime
-AutoTS
-skforecast
-TSFresh
+Merlion - error when installing the package
+Pyflux - error when installing
 
-
-Merlion
-Pyflux
 Prophet
 
-
-PyCaret
-Auto_TS
-
-Tsfresh
-Kats
 
